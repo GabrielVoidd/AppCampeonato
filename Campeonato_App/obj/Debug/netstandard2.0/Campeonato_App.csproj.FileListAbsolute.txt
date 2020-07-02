@@ -1,0 +1,15 @@
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\Campeonato_App.deps.json
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\Campeonato_App.dll
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\ref\Campeonato_App.dll
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\Campeonato_App.pdb
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.csprojAssemblyReference.cache
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.AssemblyInfoInputs.cache
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.AssemblyInfo.cs
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.csproj.CoreCompileInputs.cache
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.dll
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\ref\Campeonato_App.dll
+C:\Users\souza\Desktop\ki\recuperacao\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.pdb
