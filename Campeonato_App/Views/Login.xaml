@@ -26,7 +26,8 @@
                     BackgroundColor="Green"
                     WidthRequest="150"
                     HeightRequest="50"
-                    BorderWidth="95"/>
+                    HorizontalOptions="CenterAndExpand"
+                    CornerRadius="10"/>
             </StackLayout>
 
             <StackLayout Margin="0,230,0,0">
