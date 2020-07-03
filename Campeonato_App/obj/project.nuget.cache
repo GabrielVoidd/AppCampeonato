@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lVYmp923FllxA8eJZx/N/bApPwWqYHfbcgrgLLTdc2fe8pyjKk+7eTAGpmuRhGWILsa42+iw8cdjfFSFaApKtA==",
+  "dgSpecHash": "T/IEqABR2ErzBtxDdBZGPWTxU1oBzG4yN35MSw2yN4SdJW1gisgZak5+Gzzal9exivTPYL/Oy65aDaXEviWHIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\souza\\Desktop\\projeto\\AppCampeonato\\Campeonato_App\\Campeonato_App.csproj",
+  "projectFilePath": "C:\\Users\\Momoh\\Desktop\\AppCampeonato\\Campeonato_App\\Campeonato_App.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\souza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\souza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\souza\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Momoh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Momoh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Momoh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
   ],
